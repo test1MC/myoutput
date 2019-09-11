@@ -1,0 +1,1 @@
+define({'Help Control':{l:[{u:'/Content/HelpControls/RelatedTopics.htm#kanchor1',t:'RelatedTopics'},{u:'/Content/HelpControls/ALinkControl.htm#kanchor2',t:'ALinkControl'},{u:'/Content/HelpControls/KLinkControl.htm#kanchor3',t:'KLinkControl'}]}});

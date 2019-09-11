@@ -1,0 +1,1 @@
+define({'content':{d:'glossary term with text definition',l:''},'Expand':{d:'expanding text definition',l:''},'Hyperlink':{d:'',l:'Content/Topic.htm'},'popup':{d:'how about giving it a definition',l:''},'Toggler':{d:'',l:'Content/Togglers.htm'}});
